@@ -12,3 +12,5 @@
 - [Zenn](https://zenn.dev/shoseisan)
 - [Qiita](https://qiita.com/satabie)
 - [Blog](https://shoseisan.hatenablog.com/about)
+- [Twitter](https://twitter.com/twilight_coins)
+- [Instagram](https://instagram.com/https://www.instagram.com/shoseisannn/
