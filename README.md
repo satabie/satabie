@@ -7,5 +7,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=satabie&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### My portfolio
-- [Ver1.0](https://satabie.github.io)
+#　My links
+- [Portfolio Ver1.0](https://satabie.github.io)
+- [AtCoder](https://atcoder.jp/users/shoseisan)
+- [Zenn](https://zenn.dev/shoseisan)
+- [Qiita](https://qiita.com/satabie)
+- [Blog](https://shoseisan.hatenablog.com/about)
