@@ -8,6 +8,7 @@
 
 # My links
 - [My site Ver1.0](https://satabie.github.io)
+- [My site Ver2.0](https://satabie.github.io/my-portfolio)
 - [AtCoder](https://atcoder.jp/users/shoseisan)
 - [Zenn](https://zenn.dev/shoseisan)
 - [Qiita](https://qiita.com/satabie)
