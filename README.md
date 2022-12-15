@@ -1,6 +1,6 @@
 # Hi there☆
 
-Number of Visitors
+Number of Visitors:
 
 ![Visitor Count](https://profile-counter.glitch.me/satabie/count.svg)
 
