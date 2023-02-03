@@ -16,5 +16,4 @@ Number of Visitors:
 - [AtCoder](https://atcoder.jp/users/shoseisan)
 - [Zenn](https://zenn.dev/shoseisan)
 - [Qiita](https://qiita.com/satabie)
-- [Blog](https://shoseisan.hatenablog.com/about)
 - [Twitter](https://twitter.com/twilight_coins)
