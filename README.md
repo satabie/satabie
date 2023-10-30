@@ -14,6 +14,6 @@ Number of Visitors:
 # My links
 - [My site Ver2.0](https://satabie.github.io/my-portfolio)
 - [AtCoder](https://atcoder.jp/users/shoseisan)
-- [kaggle]{https://www.kaggle.com/shoseisan}
+- [kaggle](https://www.kaggle.com/shoseisan)
 - [Zenn](https://zenn.dev/shoseisan)
 - [Qiita](https://qiita.com/satabie)
