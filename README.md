@@ -7,8 +7,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=satabie&theme=onedark&column=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 # My links
-- [AtCoder](https://atcoder.jp/users/shoseisan)
+
 - [kaggle](https://www.kaggle.com/shoseisan)
+- [AtCoder](https://atcoder.jp/users/shoseisan)
 - [Zenn](https://zenn.dev/shoseisan)
 - [Qiita](https://qiita.com/satabie)
 - [wantedly](https://www.wantedly.com/id/t_s_fo)
