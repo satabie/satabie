@@ -6,7 +6,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=satabie&theme=onedark&column=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <img align="left" src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,mysql,docker,aws,gcp,ubuntu" />
-
+<br clear="left" />
 
 # My links
 
