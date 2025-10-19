@@ -41,7 +41,5 @@
 # My links
 
 - [kaggle](https://www.kaggle.com/shoseisan)
-- [AtCoder](https://atcoder.jp/users/shoseisan)
 - [Zenn](https://zenn.dev/shoseisan)
 - [Qiita](https://qiita.com/satabie)
-- [wantedly](https://www.wantedly.com/id/t_s_fo)
