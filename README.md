@@ -38,7 +38,8 @@
 ## Tools & OS
 <img src="https://skillicons.dev/icons?i=ubuntu,neovim,git" />★★★★★
 
-
+## Writeing
+<img src="https://skillicons.dev/icons?i=latex" />★★★★
 
 # My links
 
