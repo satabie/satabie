@@ -29,7 +29,9 @@
 ### Databases, Cloud, Container
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />★★★★
 
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp" />★★★★
+<img src="https://skillicons.dev/icons?i=aws,gcp" />★★★★
+
+<img src="https://skillicons.dev/icons?i=docker" />★★★
 
 ### Tools & OS
 <img src="https://skillicons.dev/icons?i=ubuntu,neovim,git" />★★★★★
