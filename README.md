@@ -22,6 +22,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js" />★★
 
 ### Frameworks
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />★★★★
 <img src="https://skillicons.dev/icons?i=react" />★★
 
 ### Databases, Cloud, Container
