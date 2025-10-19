@@ -16,26 +16,26 @@
 | ★★    | Used in learning or some projects |
 | ★     | Basic familiarity / touched it once |
 
-### Programming Languages
+## Programming Languages
 <img src="https://skillicons.dev/icons?i=python" />★★★★★
 
 <img src="https://skillicons.dev/icons?i=c,cpp" />★★★
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />★
 
-### Frameworks
+## Frameworks
 <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />★★★★
 
 <img src="https://skillicons.dev/icons?i=react" />★
 
-### Databases, Cloud, Container
+## Databases, Cloud, Container
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />★★★★
 
 <img src="https://skillicons.dev/icons?i=aws,gcp" />★★★★
 
 <img src="https://skillicons.dev/icons?i=docker" />★★★
 
-### Tools & OS
+## Tools & OS
 <img src="https://skillicons.dev/icons?i=ubuntu,neovim,git" />★★★★★
 
 
