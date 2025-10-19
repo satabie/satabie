@@ -6,21 +6,33 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=satabie&theme=onedark&column=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-# skill sets
+# Skill Sets
+
+| Stars | Meaning |
+|-------|---------|
+| ★★★★★ | Frequently used in work or research |
+| ★★★★  | Used in work or research |
+| ★★★   | Used in personal projects |
+| ★★    | Used in learning or some projects |
+| ★     | Basic familiarity / touched it once |
+
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=python" /> Python ★★★★
-<img src="https://skillicons.dev/icons?i=c,cpp" /> C/C++ ★★
-<img src="https://skillicons.dev/icons?i=html,css,js" /> HTML/CSS/JS ★
+<img src="https://skillicons.dev/icons?i=python" />★★★★★
+
+<img src="https://skillicons.dev/icons?i=c,cpp" />★★★
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />★★
 
 ### Frameworks
-<img src="https://skillicons.dev/icons?i=react" /> React ★
+<img src="https://skillicons.dev/icons?i=react" />★★
 
-### Databases & Cloud & Container
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" /> ★★★
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp" /> ★★
+### Databases, Cloud, Container
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />★★★★
+
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp" />★★★★
 
 ### Tools & OS
-<img src="https://skillicons.dev/icons?i=ubuntu,neovim,git" /> ★★★★
+<img src="https://skillicons.dev/icons?i=ubuntu,neovim,git" />★★★★★
 
 
 
