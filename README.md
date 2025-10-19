@@ -18,9 +18,7 @@
 
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=python" />★★★★★
-
 <img src="https://skillicons.dev/icons?i=c,cpp" />★★★
-
 <img src="https://skillicons.dev/icons?i=html,css,js" />★★
 
 ### Frameworks
@@ -28,9 +26,7 @@
 
 ### Databases, Cloud, Container
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />★★★★
-
 <img src="https://skillicons.dev/icons?i=aws,gcp" />★★★★
-
 <img src="https://skillicons.dev/icons?i=docker" />★★★
 
 ### Tools & OS
