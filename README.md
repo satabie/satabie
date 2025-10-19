@@ -36,7 +36,7 @@
 <img src="https://skillicons.dev/icons?i=docker" />★★★
 
 ## Tools & OS
-<img src="https://skillicons.dev/icons?i=ubuntu,neovim,git" />★★★★★
+<img src="https://skillicons.dev/icons?i=linux,neovim,git" />★★★★★
 
 ## Writing
 <img src="https://skillicons.dev/icons?i=latex" />★★★★
