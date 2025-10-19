@@ -5,8 +5,24 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=satabie&theme=onedark&column=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-<img align="left" src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,mysql,postgresql,docker,aws,gcp,ubuntu,neovim,git" />
-<br clear="left" />
+
+# skill sets
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python" /> Python ★★★★
+<img src="https://skillicons.dev/icons?i=c,cpp" /> C/C++ ★★
+<img src="https://skillicons.dev/icons?i=html,css,js" /> HTML/CSS/JS ★
+
+### Frameworks
+<img src="https://skillicons.dev/icons?i=react" /> React ★
+
+### Databases & Cloud & Container
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" /> ★★★
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp" /> ★★
+
+### Tools & OS
+<img src="https://skillicons.dev/icons?i=ubuntu,neovim,git" /> ★★★★
+
+
 
 # My links
 
