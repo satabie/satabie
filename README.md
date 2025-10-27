@@ -4,8 +4,6 @@
   <img alt="github stats" height="250px" src="https://github-readme-stats.vercel.app/api?username=satabie&theme=onedark&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=satabie&theme=onedark&column=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 # Skill Sets
 
 | Stars | Meaning |
