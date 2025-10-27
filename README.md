@@ -38,6 +38,8 @@
 ## Tools & OS
 <img src="https://skillicons.dev/icons?i=linux,neovim,git" />★★★★★
 
+<img src="https://skillicons.dev/icons?i=githubactions" />★★★★★
+
 ## Writing
 <img src="https://skillicons.dev/icons?i=latex" />★★★★
 
