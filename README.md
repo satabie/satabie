@@ -19,12 +19,12 @@
 
 <img src="https://skillicons.dev/icons?i=c,cpp" />★★★
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />★
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />★
 
 ## Frameworks
 <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />★★★★
 
-<img src="https://skillicons.dev/icons?i=react" />★
+<img src="https://skillicons.dev/icons?i=react,nextjs" />★
 
 ## Databases, Cloud, Container
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />★★★★
