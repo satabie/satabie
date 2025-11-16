@@ -27,9 +27,9 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs" />★
 
 ## Databases, Cloud, Container
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />★★★★
+<img src="https://skillicons.dev/icons?i=aws,gcp" />★★★★★
 
-<img src="https://skillicons.dev/icons?i=aws,gcp" />★★★★
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />★★★★
 
 <img src="https://skillicons.dev/icons?i=docker" />★★★
 
