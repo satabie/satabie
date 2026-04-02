@@ -1,48 +1,28 @@
-# Hi there
-<p align="left"> 
-  <img alt="Top Langs" height="250px" src="https://github-readme-stats-pi-ruddy-58.vercel.app/api/top-langs/?username=satabie&theme=tokyonight&count_private=true&hide=Jupyter%20Notebook,PureBasic,JavaScript,JetBrains%20MPS" />
-  <img alt="github stats" height="250px" src="https://github-readme-stats.vercel.app/api?username=satabie&theme=onedark&show_icons=ture" />
-</p>
+# Takeru Sakata
 
-# Skill Sets
+Data Scientist / AI Engineer with a background in National Institute of Technology (KOSEN).
 
-| Stars | Meaning |
-|-------|---------|
-| ★★★★★ | Frequently used in work or research |
-| ★★★★  | Used in work or research |
-| ★★★   | Used in personal projects |
-| ★★    | Used in learning or some projects |
-| ★     | Basic familiarity / touched it once |
+Building data pipelines, backend systems, and ML solutions.
 
-## Programming Languages
-<img src="https://skillicons.dev/icons?i=python" />★★★★★
+## Work
 
-<img src="https://skillicons.dev/icons?i=c,cpp" />★★★
+- **ETL & Data Platform** - BigQuery to Firestore migration pipelines, CI/CD with GitHub Actions, data modeling for query performance
+- **Anomaly Detection** - Statistical Process Control (SPC) for solar panel surplus power data
+- **Document Intelligence** - OCR + LLM pipeline for structured data extraction from PDFs
+- **Dashboard & API** - Streamlit dashboards, Flask REST APIs, scraping infrastructure on AWS
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />★
+## Tech Stack
 
-## Frameworks
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />★★★★
+| Category | Technologies |
+|----------|-------------|
+| Languages | Python, C/C++ |
+| Data & ML | scikit-learn, PyTorch, TensorFlow |
+| Cloud | GCP (BigQuery, Firestore, Cloud Functions, Cloud Run Jobs, Cloud Storage, Cloud Scheduler), AWS (EC2, S3, Lambda) |
+| Database | MySQL, PostgreSQL, Firestore, BigQuery |
+| Infra & Tools | Docker, Linux, Neovim, Git, GitHub Actions |
 
-<img src="https://skillicons.dev/icons?i=react,nextjs" />★
+## Links
 
-## Databases, Cloud, Container
-<img src="https://skillicons.dev/icons?i=aws,gcp" />★★★★★
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />★★★★
-
-<img src="https://skillicons.dev/icons?i=docker" />★★★
-
-## Tools & OS
-<img src="https://skillicons.dev/icons?i=linux,vscode,neovim,git" />★★★★★
-
-<img src="https://skillicons.dev/icons?i=githubactions" />★★
-
-## Writing
-<img src="https://skillicons.dev/icons?i=latex" />★★★★
-
-# My links
-
-- [kaggle](https://www.kaggle.com/shoseisan)
+- [Kaggle](https://www.kaggle.com/shoseisan)
 - [Zenn](https://zenn.dev/shoseisan)
 - [Qiita](https://qiita.com/satabie)
